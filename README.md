@@ -99,6 +99,7 @@
     - [Tour](#tour)
     - [Data Masking](#data-masking)
     - [Authentication](#authentication)
+    - [Avatar Component](#avatar-vue3)
   - [UI Utilities](#ui-utilities)
     - [Event Handling](#event-handling)
     - [Responsive Design](#responsive-design)
@@ -2649,6 +2650,8 @@ _Display images_
 - [vue-comment-grid](https://github.com/TugayYaldiz/vue-comment-grid) - 💬 Responsive Vue.js comment system plugin that built with CSS Grid and Firebase REST API + Authentication.
 - [fastcomments-vue](https://github.com/fastcomments/fastcomments-vue) - 💬 A Vue component for FastComments, a live commenting system.
 
+##### 
+
 #### Canvas
 
 - [vue-easeljs](http://github.com/dankuck/vue-easeljs) - Data-driven control over an HTML5 canvas element.
@@ -2683,6 +2686,10 @@ _Display images_
 #### Authentication
 
 - [vue-auth-ui](https://github.com/ndrbrt/vue-auth-ui) - Pre-built set of components for user authentication
+
+#### Avatar Component
+
+- [avatar-vue3](https://github.com/MaBbKhawaja/avatar-vue3) - create a picture with the name initials of user
 
 ### UI Utilities
 
